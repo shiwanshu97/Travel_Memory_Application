@@ -1909,55 +1909,56 @@ This project demonstrates a complete end-to-end deployment of a MERN stack appli
 
 I have added images for reference in this document. 
 
-# EC2 Instances
+# Project Screenshots
 
-![EC2 Instances](images/ec2-instances.png)
+## EC2 Instances
 
----
-
-# Amazon Machine Image (AMI)
-
-![AMI](images/ami.png)
+![EC2 Instances](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/Instance-Screenshots.png)
 
 ---
 
-# Application Load Balancer
+## Amazon Machine Image (AMI)
 
-![Load Balancer](images/load-balancer.png)
-
----
-
-# Target Groups
-
-![Target Groups](images/target-groups.png)
+![AMI](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/AMI-Screenshots.png)
 
 ---
 
-# MongoDB Atlas Database
+## Application Load Balancer
 
-![MongoDB Atlas](images/mongodb-atlas.png)
-
----
-
-# IP Whitelisting
-
-![IP Whitelisting](images/ip-whitelisting.png)
+![Load Balancer](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/LoadBalancer-Screenshots.png)
 
 ---
 
-# DNS Records
+## Target Groups
 
-![DNS Records](images/dns-records.png)
-
----
-
-# Application UI
-
-![Application UI](images/application-ui.png)
+![Target Groups](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/TargetGroup-Screenshots.png)
 
 ---
 
-# Travel Memory Home Page
+## MongoDB Atlas Database
 
-![Travel Memory](images/travel-memory-home.png)
+![Database](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/DB-Screenshots.png)
 
+---
+
+## IP Whitelisting
+
+![IP Whitelisting](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/Ip-Whitelisting.png)
+
+---
+
+## DNS Records
+
+![DNS Records](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/DNS-Records-Screenshots.png)
+
+---
+
+## Application UI
+
+![Application UI](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/UI-Screenshots.png)
+
+---
+
+## Travel Memory Application
+
+![Travel Memory](https://github.com/shiwanshu97/Travel_Memory_Application/blob/main/Images/Travel-Memory-%20Screenshots.png)
